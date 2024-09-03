@@ -1,0 +1,5 @@
+/letsencrypt/
+/.venv/
+/.idea/*
+/lib/
+/todo.jrpatterson.co.uk.pfx
